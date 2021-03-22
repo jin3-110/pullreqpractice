@@ -1,2 +1,1 @@
-# pullreqpractice
-forkせずPRする練習
+# pullreq
